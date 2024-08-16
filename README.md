@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rehan Malik
 - 👀 I’m interested in Coding, Reading, Sports
-- 🌱 I’m currently learning BCA(DATA SCIENCE)
+- 🌱 I’m currently studying BCA(DATA SCIENCE)
 - 💞️ I’m looking to collaborate on amazing opean source contribution projects
 - 📫 How to reach me:(rmalik9156@gmail.com,+91 9353436412)
 - 😄 Pronouns:(HE/HIM)
